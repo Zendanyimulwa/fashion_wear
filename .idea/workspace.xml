@@ -125,6 +125,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -154,6 +157,7 @@
     <option name="width" value="444" />
     <option name="height" value="773" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -166,29 +170,6 @@
             <path>
               <item name="susan" type="b2602c69:ProjectViewProjectNode" />
               <item name="susan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="susan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="susan" type="462c0819:PsiDirectoryNode" />
-              <item name="Fashion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="susan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="susan" type="462c0819:PsiDirectoryNode" />
-              <item name="fashionapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="susan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="susan" type="462c0819:PsiDirectoryNode" />
-              <item name="fashionapp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="susan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="susan" type="462c0819:PsiDirectoryNode" />
-              <item name="fashionapp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="fashionapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -332,16 +313,17 @@
       <workItem from="1558127013164" duration="1370000" />
       <workItem from="1558128870540" duration="1429000" />
       <workItem from="1558130778721" duration="636000" />
+      <workItem from="1559252583508" duration="563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98896000" />
+    <option name="totallyTimeSpent" value="99459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4968017" visible="true" weight="0.3267776" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4968017" visible="true" weight="0.33207262" />
       <window_info id="Favorites" order="1" sideWeight="0.50319827" side_tool="true" weight="0.30786687" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -515,6 +497,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requrements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
