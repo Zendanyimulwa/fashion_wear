@@ -1,0 +1,36 @@
+{% extends 'fashionapp/base.html' %}
+{% block content %}
+<div class="container-fluid">
+   <div class="row">
+        <h3 class="text-center text-primary">
+            {{ request.user.username }}'s Clothes
+            <hr>
+        </h3>
+        {% if clothes %}
+        {% for clothe in clothes %}
+
+        <div class="col-sm-3">
+            <div class="thumbnail">
+                <a href="{% url 'fashionapp:index' %}">
+                <img src="{{ clothe.cover.url }}" class="img img-thumbnail" style="height:150px;width:150px;">
+                </a>
+                    <div class="caption">
+                    <h4>{{clothe.material}}</h4>
+                    <h5>{{clothe.type}}</h5>
+                        <form method = "post" action="{%url 'fashionapp:delete_clothe' clothe.id %}">
+                            {% csrf_token %}
+                            <input type="hidden" name="clothe_id" value="{{ clothe.id }}">
+                        <a href = "{% url 'fashionapp:delete_clothe' clothe.id %}">
+                        <span class="glyphicon glyphicon-trash"></span>
+                    </a>
+
+                        </form>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+       {% endif %}
+    </div>
+</div>
+
+{% endblock %}

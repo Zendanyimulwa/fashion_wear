@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9969ec79-b13c-41fb-bcbd-169f0efcbdf5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="susan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1394">
+              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fashion/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fashion/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2108">
+              <caret line="124" column="31" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fashionapp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fashionapp/apps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fashionapp/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/Create_Clothe.html" />
+        <option value="$PROJECT_DIR$/Fashion/urls.py" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/create_Clothe_type.html" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/login.html" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/Create_clothe.html" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/form_template.html" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/comment_clothe.html" />
+        <option value="$PROJECT_DIR$/fashionapp/admin.py" />
+        <option value="$PROJECT_DIR$/fashionapp/models.py" />
+        <option value="$PROJECT_DIR$/fashionapp/urls.py" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/index.html" />
+        <option value="$PROJECT_DIR$/fashionapp/forms.py" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/detail.html" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/register.html" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/create_clothe.html" />
+        <option value="$PROJECT_DIR$/Fashion/settings.py" />
+        <option value="$PROJECT_DIR$/fashionapp/views.py" />
+        <option value="$PROJECT_DIR$/fashionapp/templates/fashionapp/base.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2" />
+    <option name="width" value="444" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="susan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="susan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="susan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="susan" type="462c0819:PsiDirectoryNode" />
+              <item name="Fashion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="susan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="susan" type="462c0819:PsiDirectoryNode" />
+              <item name="fashionapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="susan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="susan" type="462c0819:PsiDirectoryNode" />
+              <item name="fashionapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="susan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="susan" type="462c0819:PsiDirectoryNode" />
+              <item name="fashionapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="fashionapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9969ec79-b13c-41fb-bcbd-169f0efcbdf5" name="Default Changelist" comment="" />
+      <created>1553003739686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553003739686</updated>
+      <workItem from="1553003743270" duration="1048000" />
+      <workItem from="1553028154413" duration="85000" />
+      <workItem from="1553028303462" duration="145000" />
+      <workItem from="1553028507738" duration="56000" />
+      <workItem from="1553028654808" duration="243000" />
+      <workItem from="1553029086062" duration="325000" />
+      <workItem from="1553029463113" duration="43000" />
+      <workItem from="1553029551964" duration="1080000" />
+      <workItem from="1553030710787" duration="456000" />
+      <workItem from="1553031308719" duration="74000" />
+      <workItem from="1553031448893" duration="228000" />
+      <workItem from="1553031780590" duration="68000" />
+      <workItem from="1553075983310" duration="87000" />
+      <workItem from="1553076181969" duration="332000" />
+      <workItem from="1553076598564" duration="1047000" />
+      <workItem from="1553077695131" duration="1223000" />
+      <workItem from="1553078955259" duration="189000" />
+      <workItem from="1553079185979" duration="430000" />
+      <workItem from="1553079651511" duration="1248000" />
+      <workItem from="1553086644677" duration="1838000" />
+      <workItem from="1553090002917" duration="4000" />
+      <workItem from="1553097261031" duration="200000" />
+      <workItem from="1553097642353" duration="314000" />
+      <workItem from="1553098027857" duration="83000" />
+      <workItem from="1553098177484" duration="717000" />
+      <workItem from="1553098948941" duration="881000" />
+      <workItem from="1553099879510" duration="100000" />
+      <workItem from="1553100022506" duration="204000" />
+      <workItem from="1553100337155" duration="34000" />
+      <workItem from="1553100431423" duration="69000" />
+      <workItem from="1553100541967" duration="327000" />
+      <workItem from="1553100903252" duration="84000" />
+      <workItem from="1553101055732" duration="45000" />
+      <workItem from="1553101217885" duration="173000" />
+      <workItem from="1553101460323" duration="106000" />
+      <workItem from="1553101605428" duration="84000" />
+      <workItem from="1553101775695" duration="389000" />
+      <workItem from="1553102235871" duration="430000" />
+      <workItem from="1553102760855" duration="1289000" />
+      <workItem from="1553164903248" duration="1954000" />
+      <workItem from="1553251546048" duration="557000" />
+      <workItem from="1553256572576" duration="774000" />
+      <workItem from="1553257448449" duration="3041000" />
+      <workItem from="1553262522519" duration="629000" />
+      <workItem from="1553263205445" duration="1484000" />
+      <workItem from="1553335944114" duration="81000" />
+      <workItem from="1553404602922" duration="1582000" />
+      <workItem from="1553528382542" duration="9885000" />
+      <workItem from="1553717350990" duration="3430000" />
+      <workItem from="1553731414759" duration="625000" />
+      <workItem from="1553804538773" duration="1489000" />
+      <workItem from="1553884685552" duration="715000" />
+      <workItem from="1553891241048" duration="8142000" />
+      <workItem from="1553915790316" duration="977000" />
+      <workItem from="1554151571510" duration="1442000" />
+      <workItem from="1554161139076" duration="856000" />
+      <workItem from="1555014515285" duration="4954000" />
+      <workItem from="1555339790585" duration="691000" />
+      <workItem from="1555340841838" duration="15000" />
+      <workItem from="1555341492779" duration="12000" />
+      <workItem from="1555360007495" duration="849000" />
+      <workItem from="1555365304415" duration="733000" />
+      <workItem from="1555438549658" duration="896000" />
+      <workItem from="1555440311661" duration="1621000" />
+      <workItem from="1555442149000" duration="1331000" />
+      <workItem from="1555446719580" duration="667000" />
+      <workItem from="1555450329144" duration="628000" />
+      <workItem from="1555452242827" duration="761000" />
+      <workItem from="1555454618901" duration="1463000" />
+      <workItem from="1555456474909" duration="980000" />
+      <workItem from="1555478520169" duration="71000" />
+      <workItem from="1555478695573" duration="390000" />
+      <workItem from="1555621092831" duration="1407000" />
+      <workItem from="1555622780712" duration="750000" />
+      <workItem from="1555625046653" duration="1125000" />
+      <workItem from="1555626466369" duration="571000" />
+      <workItem from="1555628298691" duration="301000" />
+      <workItem from="1556003299825" duration="46000" />
+      <workItem from="1556003460553" duration="649000" />
+      <workItem from="1556005301241" duration="563000" />
+      <workItem from="1556006962900" duration="54000" />
+      <workItem from="1556007119213" duration="618000" />
+      <workItem from="1556052738682" duration="1401000" />
+      <workItem from="1556825639072" duration="141000" />
+      <workItem from="1556825930346" duration="635000" />
+      <workItem from="1556826670576" duration="980000" />
+      <workItem from="1556939475756" duration="605000" />
+      <workItem from="1556941537489" duration="624000" />
+      <workItem from="1556945551113" duration="1620000" />
+      <workItem from="1556947290380" duration="457000" />
+      <workItem from="1556947997540" duration="244000" />
+      <workItem from="1556952631307" duration="135000" />
+      <workItem from="1556952887360" duration="113000" />
+      <workItem from="1556953438663" duration="766000" />
+      <workItem from="1556986316397" duration="681000" />
+      <workItem from="1556987094479" duration="666000" />
+      <workItem from="1556988991362" duration="1695000" />
+      <workItem from="1556990865389" duration="1295000" />
+      <workItem from="1557255991009" duration="1582000" />
+      <workItem from="1557257734815" duration="1766000" />
+      <workItem from="1558044278994" duration="1642000" />
+      <workItem from="1558046029675" duration="1969000" />
+      <workItem from="1558048114883" duration="857000" />
+      <workItem from="1558127013164" duration="1370000" />
+      <workItem from="1558128870540" duration="1429000" />
+      <workItem from="1558130778721" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98896000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4968017" visible="true" weight="0.3267776" />
+      <window_info id="Favorites" order="1" sideWeight="0.50319827" side_tool="true" weight="0.30786687" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.23240589" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.22541603" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010526" side_tool="true" weight="0.18003026" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.22258593" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/create_Clothe_type.html" />
+    <entry file="file://$PROJECT_DIR$/fashionapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/comment_clothe.html" />
+    <entry file="file://$PROJECT_DIR$/fashionapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/form_template.html" />
+    <entry file="file://$PROJECT_DIR$/fashionapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/create_clothe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fashion/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fashion/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="31" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/templates/fashionapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fashionapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
